@@ -49,6 +49,14 @@ public class tauler {
         }
         
         
+        public void cambiarEstat(){
+            
+        }
+        
+        public void cambiarColor(){
+            
+        }
+        
         
     }
     
