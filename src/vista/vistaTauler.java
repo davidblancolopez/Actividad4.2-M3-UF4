@@ -14,7 +14,8 @@ public class vistaTauler {
     
     
     /**
-     * Metode per a mostrar el menú de la aplicació amb les opcions.
+     * Metode per a mostrar el menú de la aplicació amb les opcions i recollir 
+     * la opció escollida.
      */
     public int mostrarMenu(){
         int opcio;
