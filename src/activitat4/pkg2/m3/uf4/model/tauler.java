@@ -23,7 +23,7 @@ public class tauler {
     
     
     
-    class casella{
+    public class casella{
         boolean estat;
         String color;
 
