@@ -14,6 +14,15 @@ public class controlTauler {
         this.vText = vText;
     }
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
     /**
      * Metode per a recollir la opció en el menú ifer una acció o un altre.
      */
@@ -33,6 +42,9 @@ public class controlTauler {
     }
     
     
+    public void demanarnumeros(){
+        
+    }
 
     
 

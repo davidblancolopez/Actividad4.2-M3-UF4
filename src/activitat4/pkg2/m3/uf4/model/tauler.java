@@ -49,12 +49,21 @@ public class tauler {
         }
         
         
-        public void cambiarEstat(){
-            
+        public void cambiarEstat(boolean estat){
+                       
+            if (estat) {
+                estat = false;
+            }else{
+                estat= true;
+            }
         }
         
-        public void cambiarColor(){
-            
+        public void cambiarColor(String color){
+            if (color == "verd") {
+                color = "vermell";
+            }else{
+                color = "verd";
+            }
         }
         
         
